@@ -18,7 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           The First Octa Chain Tools Based Polkadot{' '}
-          <code className={styles.code}>pages/index.js</code>
+          <code className={styles.code}></code>
         </p>
 
         <div className={styles.grid}>
@@ -68,7 +68,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Powered by GitEdgeWare{' '}
           <span className={styles.logo}>
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
